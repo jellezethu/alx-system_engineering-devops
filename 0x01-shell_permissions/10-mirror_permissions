@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod hello olle
+chmod --wxr-xr-- hello olle

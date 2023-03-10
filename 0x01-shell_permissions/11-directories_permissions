@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ls -d111*/
+ls -d111*/
